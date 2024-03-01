@@ -5,7 +5,7 @@
 - Em editar o produto é possivel editar a descrição do produto e valor do produto.
 
 # Pontos de maior observação:
--Conexão com o banco de dados Mysql.
+- Conexão com o banco de dados Mysql.
 
 # Observação do teste:
 - Pode ser feita em qualquer linguagem.
