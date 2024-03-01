@@ -12,3 +12,4 @@
 - Subir o projeto no github e compartilhar o link.
 - Se não conseguir subir o projeto no github faça um video no youtube com link privado explicando como foi feita a solução do projeto e mostrando o projeto.
 - Qualquer duvida entrar em contato.
+- Este teste deve ser entregue ate o dia 04/03/2023 ate as 12:00.
